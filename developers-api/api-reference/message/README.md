@@ -22,5 +22,3 @@ _While users have the ability to create message complexes using the built-in for
 
 {% page-ref page="delete-request.md" %}
 
-
-

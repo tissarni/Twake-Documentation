@@ -29,7 +29,7 @@ This guide will walk you through creating, setting up and installing a Twake app
 
 ![](../../.gitbook/assets/twake-identity-of-the-application.gif)
 
-Let's add a description and an icon for our application.   
+Let's add a description and an icon for our application.  
 it will be much prettier! 😇
 
 ### 3. API settings
@@ -57,17 +57,17 @@ To configure where your application should display, you need to fill a `JSON` ob
 
 ![](../../.gitbook/assets/twake-application-privileges.gif)
 
-Your application can access and modify data, only according to your needs you don't need to access all the data present in Twake.   
-  
+Your application can access and modify data, only according to your needs you don't need to access all the data present in Twake.
+
 This is why you must specify the accesses for the proper functioning of your application. These accesses will be public and indicated to the user before the installation of your application.
 
-In our example, we will only add  `message_save` and `message_remove` in `Write privileges`.  
-  
+In our example, we will only add `message_save` and `message_remove` in `Write privileges`.
+
 If you want to know more about capabilities and privileges, take a look at the list [here](../application-settings/privileges.md).
 
 ### 6. Install application
 
-Once you've configured your application, you need to install it on Twake. 
+Once you've configured your application, you need to install it on Twake.
 
 ![](../../.gitbook/assets/twake-install-application.gif)
 

@@ -6,7 +6,7 @@ description: >-
 
 # 🎩 Channels and tabs
 
-### Wording
+## Wording
 
 **Member:** member in company without the tag "guest"  
 **Guest:** company member with the tag "guest"  
@@ -20,7 +20,7 @@ description: >-
 
 TODO [Wording and formatting](https://www.notion.so/Wording-and-formatting-24ef27e094a042aea4899ac6a8039dee)
 
-### What it does
+## What it does
 
 Channel component is **not** responsible of the red badge counter \(notification service is\).
 
@@ -28,7 +28,7 @@ Channel component **is** responsible of keeping track of the message from where 
 
 TODO [Some process details and constant s](https://www.notion.so/Some-process-details-and-constant-s-fb5b2d4974da490aa87bb87082af8454)
 
-### Models an APIs
+## Models an APIs
 
 [Database models](database-models.md)
 

@@ -6,7 +6,7 @@ description: >-
 
 # ObjectModal
 
-#### Usage
+## Usage
 
 ```jsx
 import ObjectModal from 'components/ObjectModal/ObjectModal.js';
@@ -32,9 +32,7 @@ import ObjectModal from 'components/ObjectModal/ObjectModal.js';
 </ObjectModal>
 ```
 
-#### 
-
-#### Props
+## Props
 
 | **name** | **Description** | **Type** | **Default** |
 | :--- | :--- | :--- | :--- |
@@ -43,9 +41,7 @@ import ObjectModal from 'components/ObjectModal/ObjectModal.js';
 | **onClose** | Add close icon in the component, waiting for a function | Function | null |
 | **title** | _Define a title component_ | ReactNode | null |
 
-#### 
-
-#### Preview
+## Preview
 
 ![Modal example with task editor](../../../.gitbook/assets/screenshot-2020-07-15-at-17.00.48.png)
 

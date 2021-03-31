@@ -4,7 +4,7 @@ description: This method allow to send message to a specific channel.
 
 # POST Request
 
-#### Before starting, make sure you added **`message_save`** into **`write privileges`**.  See the ****[Application access and privileges](../../get-started/#application-access-and-privileges) ****section.
+### Before starting, make sure you added **`message_save`** into **`write privileges`**.  See the [**Application access and privileges**](../../get-started/#application-access-and-privileges) ****section.
 
 {% api-method method="post" host="https://api.twake.app" path="/api/v1/messages/save" %}
 {% api-method-summary %}
@@ -44,7 +44,7 @@ POST message
 If request is successful, the response should be something like this.
 {% endapi-method-response-example-description %}
 
-```
+```text
 {
     "object": {
         "id": "--", // Message Id
@@ -67,16 +67,16 @@ If request is successful, the response should be something like this.
 {% endapi-method-spec %}
 {% endapi-method %}
 
-### Body example: 
+## Body example:
 
 ```text
 {
-	"group_id": "--",
-	"message": {
-		"channel_id": "--",
-		"content": "Hello, this is my first message !",
-		"_once_ephemeral_message": false // Set true if you want this message ephemeral
-	}
+    "group_id": "--",
+    "message": {
+        "channel_id": "--",
+        "content": "Hello, this is my first message !",
+        "_once_ephemeral_message": false // Set true if you want this message ephemeral
+    }
 }
 ```
 

@@ -11,5 +11,3 @@ _While users have the ability to create message complexes using the built-in for
 * [Send a message with your application](send-a-message-for-twake.md)
 * [Trigger action from command](trigger-action-from-command.md)
 
-
-

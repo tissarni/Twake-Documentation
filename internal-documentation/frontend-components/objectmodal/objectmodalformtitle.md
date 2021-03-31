@@ -4,7 +4,7 @@ description: Icon with sub heading for ObjectModal component. Perfect before a f
 
 # ObjectModalFormTitle
 
-#### Usage
+## Usage
 
 ```jsx
 import ObjectModalFormTitle from 'components/ObjectModal/ObjectModal.js';
@@ -17,9 +17,7 @@ import ObjectModalFormTitle from 'components/ObjectModal/ObjectModal.js';
   />
 ```
 
-#### 
-
-#### Props
+## Props
 
 | **name** | **Description** | **Type** | **Default** |
 | :--- | :--- | :--- | :--- |
@@ -27,6 +25,4 @@ import ObjectModalFormTitle from 'components/ObjectModal/ObjectModal.js';
 | **icon** | Define icon for the title | string | null |
 | **name** | Define the title name | string | null |
 | **style** | Define a custom style for the title | object | null |
-
-
 

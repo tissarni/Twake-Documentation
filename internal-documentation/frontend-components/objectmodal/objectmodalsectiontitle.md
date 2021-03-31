@@ -4,7 +4,7 @@ description: 'Section title, perfect after a separator.'
 
 # ObjectModalSectionTitle
 
-#### Usage
+## Usage
 
 ```jsx
 import ObjectModalFormTitle from 'components/ObjectModal/ObjectModal.js';
@@ -16,9 +16,7 @@ import ObjectModalFormTitle from 'components/ObjectModal/ObjectModal.js';
   />
 ```
 
-#### 
-
-#### Props
+## Props
 
 | **name** | **Description** | **Type** | **Default** |
 | :--- | :--- | :--- | :--- |
@@ -27,9 +25,7 @@ import ObjectModalFormTitle from 'components/ObjectModal/ObjectModal.js';
 | **name** | Define the title name | string | null |
 | **style** | Define a custom style for the title | object | null |
 
-#### 
-
-#### Preview
+## Preview
 
 ![](../../../.gitbook/assets/capture-decran-de-2020-07-17-17-58-03.png)
 

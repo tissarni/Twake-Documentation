@@ -2,7 +2,7 @@
 
 ## Create a channel
 
-To create a channel, you must have `Administrator` rights for the workspace in question. 
+To create a channel, you must have `Administrator` rights for the workspace in question.
 
 {% page-ref page="../../company-and-workspace/rights.md" %}
 
@@ -10,7 +10,7 @@ To create your channel, click on the `+` button right to the "Channel" inscripti
 
 ## Channel sections
 
-You can organize your channel by grouping them. If you are `Administrator`, you can drag a channel and drop in the section you want `Add here` or in `New group`. 
+You can organize your channel by grouping them. If you are `Administrator`, you can drag a channel and drop in the section you want `Add here` or in `New group`.
 
 To edit section name, you just have to click on it, change the name and press `Enter`
 
@@ -24,8 +24,6 @@ Public channels are visible to all members of the workspace.
 
 Private channels are channels accessible only to a limited number of users. Members not present in these channels cannot see them.
 
-
-
 ### Modify the members of a private channel
 
 You can choose the members of a private channel when creating it. To modify the members of a private channel once created, place your mouse on the channel, click on the `...` then on `Edit channel`, in the `Participants` box, you can add or remove the members of the channel.
@@ -34,7 +32,7 @@ You can choose the members of a private channel when creating it. To modify the 
 
 ## External member
 
-You have the possibility to invite external members to your channel. External members are members who are not in the workspace and who are added to one, or more,  specific channel\(s\). 
+You have the possibility to invite external members to your channel. External members are members who are not in the workspace and who are added to one, or more, specific channel\(s\).
 
 This feature is useful for inviting users who are not in your company. Freelancers, for example, can be added to a specific channel to collaborate on a project. They will only have access to this channel, they will not see public channels.
 

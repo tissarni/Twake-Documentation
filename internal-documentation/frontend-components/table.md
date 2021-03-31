@@ -4,19 +4,17 @@ description: Create a table
 
 # Table
 
-#### Usage
+## Usage
 
 ```jsx
 import Table from 'components/Table/Table.js';
 ```
 
 ```jsx
-<Table /> 
+<Table />
 ```
 
-#### 
-
-#### Props
+## Props
 
 | **name** | **Description** | **Type** | **Default** |
 | :--- | :--- | :--- | :--- |

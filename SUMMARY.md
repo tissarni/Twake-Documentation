@@ -4,20 +4,18 @@
 
 ## Getting started <a id="gettingstarted"></a>
 
----
-
-* [🏗️ Installation](installation/README.md)
-  * [🎡 Scale with Twake](installation/scale-with-twake.md)
-* [⚙️ Configuration](configuration/README.md)
-  * [🔒 Security](configuration/security.md)
-  * [🔗 Custom domain + HTTPS](configuration/custom-domain-and-https/README.md)
-    * [Apache2 configuration](configuration/custom-domain-and-https/apache2-configuration.md)
-  * [💌 Configure mail server](configuration/configure-mail-server.md)
-  * [🎨 Customisation](configuration/customisation.md)
-  * [🔌 Connectors and plugins](configuration/connectors-and-plugins.md)
-  * [👨‍💻 Authentication modes](configuration/authentication-modes/README.md)
-    * [Using Keycloak \(LDAP, OpenID and more\)](configuration/authentication-modes/using-keycloak-ldap-openid-and-more.md)
-    * [Installing Twake with LemonLDAP \(LDAP, OpenID and more\)](configuration/authentication-modes/installing-twake-with-lemonldap-ldap-openid-and-more.md)
+* [🏗️ Installation](gettingstarted/installation/README.md)
+  * [🎡 Scale with Twake](gettingstarted/installation/scale-with-twake.md)
+* [⚙️ Configuration](gettingstarted/configuration/README.md)
+  * [🔒 Security](gettingstarted/configuration/security.md)
+  * [🔗 Custom domain + HTTPS](gettingstarted/configuration/custom-domain-and-https/README.md)
+    * [Apache2 configuration](gettingstarted/configuration/custom-domain-and-https/apache2-configuration.md)
+  * [💌 Configure mail server](gettingstarted/configuration/configure-mail-server.md)
+  * [🎨 Customisation](gettingstarted/configuration/customisation.md)
+  * [🔌 Connectors and plugins](gettingstarted/configuration/connectors-and-plugins.md)
+  * [👨‍💻 Authentication modes](gettingstarted/configuration/authentication-modes/README.md)
+    * [Using Keycloak \(LDAP, OpenID and more\)](gettingstarted/configuration/authentication-modes/using-keycloak-ldap-openid-and-more.md)
+    * [Installing Twake with LemonLDAP \(LDAP, OpenID and more\)](gettingstarted/configuration/authentication-modes/installing-twake-with-lemonldap-ldap-openid-and-more.md)
 
 ## How to use it
 

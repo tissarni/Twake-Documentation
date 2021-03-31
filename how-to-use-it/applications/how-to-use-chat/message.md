@@ -26,11 +26,9 @@ Someone ask you a question ? You can answer it by clicking `Answer` below the me
 
 ### Reorganize your chat
 
-You can reorganize your chat by dragging and dropping your messages. 
+You can reorganize your chat by dragging and dropping your messages.
 
 ![](../../../.gitbook/assets/d-and-dmessage.gif)
-
-### 
 
 ### See thread message
 
@@ -38,7 +36,7 @@ You can see a thread in a specific view. Hover over in one, the button `Show on 
 
 ## Integration
 
-### Gif 
+### Gif
 
 You can send gif in your channel. Just clic gif icon to open a gif selector.
 
@@ -47,8 +45,6 @@ You can send gif in your channel. Just clic gif icon to open a gif selector.
 ### Call
 
 If you need to call your team, there is native integration with Jitsi. Just click on the green button with the phone and a menu opens on the left to create a Jitsi call. Once the information is filled in, the call link is sent to your team.
-
-
 
 ## Send document
 

@@ -4,7 +4,7 @@ description: This method allow to delete message to a specific channel.
 
 # DELETE Request
 
-#### Before starting, make sure you added **`message_save`** into **`write privileges`**.  See the ****[Application access and privileges](../../get-started/#application-access-and-privileges) ****section.
+### Before starting, make sure you added **`message_save`** into **`write privileges`**.  See the [**Application access and privileges**](../../get-started/#application-access-and-privileges) ****section.
 
 {% api-method method="post" host="https://api.twake.app" path="/api/v1/messages/remove" %}
 {% api-method-summary %}
@@ -44,7 +44,7 @@ DELETE Message
 if request is successful, the response should be something like this.
 {% endapi-method-response-example-description %}
 
-```
+```text
 {
     "result": {
         "channel_id": "--", // Channel id
@@ -57,15 +57,15 @@ if request is successful, the response should be something like this.
 {% endapi-method-spec %}
 {% endapi-method %}
 
-## Body example: 
+## Body example:
 
 ```text
 {
-	"group_id": "---", 
-	"message": {
-		"channel_id": "---",
-		"id": "--" // Message id that you want to delete
-	}
+    "group_id": "---", 
+    "message": {
+        "channel_id": "---",
+        "id": "--" // Message id that you want to delete
+    }
 }
 ```
 
