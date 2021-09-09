@@ -8,27 +8,35 @@ description: File database models
 
   ```javascript
     {
+      
       //Primary key: [["company_id"], "id"]
-        "company_id": "uuid-v4",
+      "company_id": "uuid-v4",
       "id": "uuid-v4",
-
-        "owner_type": "user" | "application",
-        "owner_id": "uuid-v4",
-
-        "encryption_key": "",
-
-        "upload_data": (json){
+      "user_id": "string",
+      "application_id": "string",
+      "encryption_key": "",
+      "updated_at": "number", 
+      "created_at":"number
+        
+      "upload_data": (json){
         "size": number, //Total file size
-          "chunks": number, //Number of chunks
-      }
+        "chunks": number, //Number of chunks
+       }
 
-        "metadata": (json){
+      "metadata": (json){
         "name": "string", //File name
         "mime": "type/subtype",
+      }
 
-        "thumbnail": "" //Url to thumbnail (or set it to undefined if no relevant)
-            "width": number, //Thumbnail width (for images only)
+      "thumbnails": (json) {  //Url to thumbnail (or set it to undefined if no relevant)
+        "index": "string",
+        "id": "uuid-v4",
+
+        "type": "string",
+        "size": "number,
+        "width": number, //Thumbnail width (for images only)
         "height": number, //Thumbnail height (for images only)
+
       }
     }
   ```
